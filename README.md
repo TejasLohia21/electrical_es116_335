@@ -36,7 +36,7 @@ The transmitter sends data by modulating the laser signal’s frequency and phas
 
 This project demonstrates the potential of laser-based wireless communication as a viable alternative to traditional radio-frequency methods. By addressing the challenges and exploring future enhancements, the project paves the way for more efficient and reliable photonic communication systems.
 
-# Additional Resources
+# Code and Documentation
 
-For a detailed analysis and technical documentation, please refer to the linked paper: [Laser-Based Wireless Communication Paper]([url](https://iitgnacin-my.sharepoint.com/:b:/g/personal/23110334_iitgn_ac_in/ERaP6oIndxJFivPPv5zZU1oB4PGTzJmV_qZ0f7bsHcz34Q?e=xuISmt))
+For a detailed analysis and technical documentation and the **code**, please refer to the linked paper: [Laser-Based Wireless Communication Paper]([url](https://iitgnacin-my.sharepoint.com/:b:/g/personal/23110334_iitgn_ac_in/ERaP6oIndxJFivPPv5zZU1oB4PGTzJmV_qZ0f7bsHcz34Q?e=xuISmt))
 
