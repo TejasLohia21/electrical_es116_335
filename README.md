@@ -38,5 +38,5 @@ This project demonstrates the potential of laser-based wireless communication as
 
 # Code and Documentation
 
-For a detailed analysis and technical documentation and the **code**, please refer to the linked paper: [Laser-Based Wireless Communication Paper]([url](https://iitgnacin-my.sharepoint.com/:b:/g/personal/23110334_iitgn_ac_in/ERaP6oIndxJFivPPv5zZU1oB4PGTzJmV_qZ0f7bsHcz34Q?e=xuISmt))
+For a detailed analysis and technical documentation and the **code**, please refer to the linked paper: [Laser-Based Wireless Communication Paper](https://iitgnacin-my.sharepoint.com/:b:/g/personal/23110334_iitgn_ac_in/ERaP6oIndxJFivPPv5zZU1oB4PGTzJmV_qZ0f7bsHcz34Q?e=xuISmt)
 
